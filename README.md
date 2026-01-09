@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there :sunglasses:
 
-<!--
-**Alexander4442/Alexander4442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programador Front-end em formação, com ensino médio técnico em Desenvolvimento de Sistemas. Atuação em projetos reais e funcionais. Apaixonado por tecnologia, focado em resultados e aprendizado contínuo.
 
-Here are some ideas to get you started:
+## Conecte-se comigo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.instagram.com/g.sandroo_" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://www.linkedin.com/in/alexandergermano" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+## Línguagens e Ferramentas:
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python"/>
